@@ -1,0 +1,13 @@
+convert text files to bit files - without ascii - :D
+convert text files to bit files with ascii - EL : 7 - all readable characters - :D
+generate bit file for ecg data with EL:32 - :D
+generate E(n, l) for n ranging from 1 to 150 using sagemaker - not working
+put the graphs in latex report
+write a template of what all i am planning to include in the paper and ask for review :D
+experiment with number of data points of english to obtain correct anomaly detection
+time and space complexity analysis of compactness score.ipynb
+HIGH PRIORITY: Get Entropy based CS - Modify distinct patterns function -:D
+
+2 plots generated for all new 4 corpuses. Plot these properly. Good Visulaization is important in the presentation.
+Document the new change to compactness score.
+Talk to professor about how python can't support computations above n = 46
